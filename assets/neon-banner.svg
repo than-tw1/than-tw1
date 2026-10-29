@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">THAN.TRING1 — Trading Automation</title>
+  <desc id="desc">Neon synthwave banner with market chart lines in purple, magenta, and cyan.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b18"/>
+      <stop offset=".52" stop-color="#171034"/>
+      <stop offset="1" stop-color="#090b18"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset=".52" stop-color="#f044e8"/>
+      <stop offset="1" stop-color="#38d9ff"/>
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#713cff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#ff46df" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#713cff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="52" height="28" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V28" fill="none" stroke="#a855f7" stroke-opacity=".24" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <circle cx="185" cy="75" r="118" fill="#6422cb" opacity=".16"/>
+    <circle cx="1035" cy="60" r="142" fill="#e836e6" opacity=".13"/>
+    <circle cx="1024" cy="88" r="48" fill="none" stroke="#d65cff" stroke-width="2" opacity=".8" filter="url(#softGlow)"/>
+    <ellipse cx="1024" cy="88" rx="78" ry="22" fill="none" stroke="#ff64df" stroke-width="2" transform="rotate(-18 1024 88)" opacity=".9"/>
+    <circle cx="1024" cy="88" r="6" fill="#fff" filter="url(#softGlow)"/>
+    <path d="M0 214H1200" stroke="url(#horizon)" stroke-width="3" filter="url(#softGlow)"/>
+    <path d="M0 214L600 360M1200 214L600 360M120 214L560 360M270 214L575 360M420 214L590 360M780 214L610 360M930 214L625 360M1080 214L640 360" stroke="#ae54ff" stroke-opacity=".45" fill="none"/>
+    <path d="M0 235H1200M0 260H1200M0 291H1200M0 330H1200" stroke="#f04de8" stroke-opacity=".36" fill="none"/>
+    <rect y="214" width="1200" height="146" fill="url(#grid)" opacity=".22"/>
+    <g filter="url(#softGlow)" opacity=".9">
+      <path d="M74 197l25-22 23 9 22-32 22 8 25-44 23 13 25-28 27 16" fill="none" stroke="#38d9ff" stroke-width="3"/>
+      <path d="M1040 199l25-18 23 6 24-31 20 9 27-41 22 14 18-22" fill="none" stroke="#ff54dc" stroke-width="3"/>
+    </g>
+    <g stroke-linecap="round">
+      <path d="M112 199v-27M112 180v12" stroke="#42e6ce" stroke-width="3"/><rect x="105" y="180" width="14" height="13" rx="2" fill="#42e6ce"/>
+      <path d="M148 184v-38M148 155v22" stroke="#ff63d7" stroke-width="3"/><rect x="141" y="155" width="14" height="17" rx="2" fill="#ff63d7"/>
+      <path d="M184 162v-33M184 137v18" stroke="#42e6ce" stroke-width="3"/><rect x="177" y="137" width="14" height="15" rx="2" fill="#42e6ce"/>
+      <path d="M220 143v-46M220 109v25" stroke="#ff63d7" stroke-width="3"/><rect x="213" y="109" width="14" height="24" rx="2" fill="#ff63d7"/>
+      <path d="M1038 204v-31M1038 182v16" stroke="#42e6ce" stroke-width="3"/><rect x="1031" y="182" width="14" height="16" rx="2" fill="#42e6ce"/>
+      <path d="M1074 181v-44M1074 147v27" stroke="#ff63d7" stroke-width="3"/><rect x="1067" y="147" width="14" height="26" rx="2" fill="#ff63d7"/>
+      <path d="M1110 157v-34M1110 130v20" stroke="#42e6ce" stroke-width="3"/><rect x="1103" y="130" width="14" height="19" rx="2" fill="#42e6ce"/>
+    </g>
+    <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+      <text x="600" y="111" fill="#ffffff" font-size="54" font-weight="800" letter-spacing="8" filter="url(#softGlow)">THAN.TRING1</text>
+      <path d="M394 130H806" stroke="url(#glow)" stroke-width="2" opacity=".9"/>
+      <text x="600" y="161" fill="#e2d7ff" font-size="16" font-weight="600" letter-spacing="5">PYTHON  /  TRADING AUTOMATION  /  XAU·USD</text>
+      <text x="600" y="194" fill="#a9b5d5" font-size="13" letter-spacing="2">LEARN  ·  BUILD  ·  TEST  ·  IMPROVE</text>
+    </g>
+    <circle cx="316" cy="86" r="3" fill="#fff" filter="url(#softGlow)"/>
+    <path d="M316 70v32M300 86h32" stroke="#dcb4ff" stroke-width="1" opacity=".8"/>
+    <circle cx="855" cy="70" r="2" fill="#fff" filter="url(#softGlow)"/>
+    <rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="url(#glow)" stroke-opacity=".55" stroke-width="2"/>
+  </g>
+</svg>
