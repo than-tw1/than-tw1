@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**than-tw1/than-tw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# THAN.TRING1
 
-Here are some ideas to get you started:
+### PYTHON · TRADING AUTOMATION · XAU/USD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Building in Python • Exploring trading automation • Learning by doing**
+
+![Python](https://img.shields.io/badge/Python-learning-00D3A7?style=for-the-badge&logo=python&logoColor=white)
+![Market](https://img.shields.io/badge/MARKETS-XAU%2FUSD-111827?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-AUTOMATION-111827?style=for-the-badge)
+
+</div>
+
+---
+
+## ▸ THE MISSION
+
+I’m learning by building practical tools around **Python** and **trading automation**.  
+Right now, I’m exploring **XAU/USD** workflows and improving one step at a time.
+
+## ▸ CURRENT FOCUS
+
+| AREA | IN THE WORKSHOP |
+|:--|:--|
+| **Code** | Python fundamentals and automation |
+| **Markets** | XAU/USD analysis workflows |
+| **Build** | Prototyping and refining trading tools |
+| **Mindset** | Learn → Build → Test → Improve |
+
+## ▸ PRINCIPLES
+
+- Keep learning and document the process.
+- Test ideas carefully before relying on them.
+- Treat risk management as part of the build.
+
+<div align="center">
+
+**STAY CURIOUS · BUILD WITH DISCIPLINE**
+
+<sub>Personal learning projects. Nothing here is financial advice.</sub>
+
+</div>
