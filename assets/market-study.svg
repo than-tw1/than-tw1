@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrative XAU/USD chart study</title>
+  <desc id="desc">A decorative, fictional candlestick chart for a trading automation profile. It does not show live market data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111025"/><stop offset="1" stop-color="#090d18"/></linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c026d3" stop-opacity=".22"/><stop offset="1" stop-color="#c026d3" stop-opacity="0"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".56" stop-color="#ec4899"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <pattern id="grid" width="80" height="54" patternUnits="userSpaceOnUse"><path d="M80 0H0V54" fill="none" stroke="#8b5cf6" stroke-opacity=".16"/></pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="430" rx="22" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="21" fill="none" stroke="#8b5cf6" stroke-opacity=".5"/>
+  <text x="42" y="54" fill="#f5f3ff" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="3">MARKET STUDY</text>
+  <text x="42" y="84" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">XAU/USD · ILLUSTRATIVE CHART</text>
+  <rect x="920" y="35" width="238" height="34" rx="17" fill="#2b1536" stroke="#ec4899" stroke-opacity=".65"/>
+  <circle cx="940" cy="52" r="4" fill="#f472b6"/>
+  <text x="953" y="57" fill="#f9a8d4" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">NOT LIVE MARKET DATA</text>
+  <rect x="42" y="112" width="1116" height="268" rx="12" fill="url(#grid)" stroke="#8b5cf6" stroke-opacity=".18"/>
+  <path d="M42 166H1158M42 220H1158M42 274H1158M42 328H1158" stroke="#a78bfa" stroke-opacity=".16" stroke-dasharray="4 8"/>
+  <g stroke-linecap="round">
+    <path d="M112 310V255M180 286V224M248 270V201M316 248V178M384 262V204M452 225V157M520 208V139M588 218V165M656 195V128M724 210V154M792 183V120M860 170V103M928 185V128M996 157V91M1064 146V78" stroke="#22d3ee" stroke-width="2"/>
+    <rect x="100" y="274" width="24" height="24" rx="3" fill="#22d3ee"/>
+    <rect x="168" y="240" width="24" height="30" rx="3" fill="#22d3ee"/>
+    <rect x="236" y="224" width="24" height="31" rx="3" fill="#f472b6"/>
+    <rect x="304" y="198" width="24" height="35" rx="3" fill="#22d3ee"/>
+    <rect x="372" y="220" width="24" height="25" rx="3" fill="#f472b6"/>
+    <rect x="440" y="177" width="24" height="30" rx="3" fill="#22d3ee"/>
+    <rect x="508" y="160" width="24" height="32" rx="3" fill="#22d3ee"/>
+    <rect x="576" y="184" width="24" height="21" rx="3" fill="#f472b6"/>
+    <rect x="644" y="149" width="24" height="30" rx="3" fill="#22d3ee"/>
+    <rect x="712" y="169" width="24" height="22" rx="3" fill="#f472b6"/>
+    <rect x="780" y="138" width="24" height="28" rx="3" fill="#22d3ee"/>
+    <rect x="848" y="123" width="24" height="29" rx="3" fill="#22d3ee"/>
+    <rect x="916" y="144" width="24" height="20" rx="3" fill="#f472b6"/>
+    <rect x="984" y="109" width="24" height="30" rx="3" fill="#22d3ee"/>
+    <rect x="1052" y="98" width="24" height="30" rx="3" fill="#22d3ee"/>
+  </g>
+  <path d="M112 286L180 254L248 239L316 215L384 232L452 192L520 176L588 194L656 164L724 180L792 151L860 138L928 153L996 124L1064 112" fill="none" stroke="url(#line)" stroke-width="4" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M112 286L180 254L248 239L316 215L384 232L452 192L520 176L588 194L656 164L724 180L792 151L860 138L928 153L996 124L1064 112V380H112Z" fill="url(#area)"/>
+  <text x="42" y="407" fill="#64748b" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">CONCEPTUAL VISUAL · FOR PROFILE DESIGN ONLY</text>
+  <text x="1158" y="407" text-anchor="end" fill="#a78bfa" font-family="Arial,sans-serif" font-size="12" letter-spacing="1">LEARN · TEST · REFINE</text>
+</svg>
