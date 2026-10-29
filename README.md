@@ -12,35 +12,52 @@
 
 ---
 
-## ✦ ABOUT
-
-I’m learning by building practical tools with **Python**, with a growing focus on **trading automation** and **XAU/USD** workflows.
-
-> Learn. Build. Test. Improve.
-
-## ✦ CURRENTLY EXPLORING
-
-| AREA | FOCUS |
-|:--:|:--|
-| **01 · PYTHON** | Fundamentals, scripting, and automation |
-| **02 · MARKETS** | XAU/USD analysis workflows |
-| **03 · BUILDING** | Prototyping and refining trading tools |
-| **04 · PROCESS** | Testing ideas carefully and learning from each iteration |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ ABOUT</h3>
+      <p>I’m learning by building practical tools with <strong>Python</strong>, with a growing focus on <strong>trading automation</strong> and <strong>XAU/USD</strong> workflows.</p>
+      <blockquote>Learn. Build. Test. Improve.</blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ CURRENT FOCUS</h3>
+      <ul>
+        <li><strong>Python</strong> — fundamentals, scripting, automation</li>
+        <li><strong>Markets</strong> — XAU/USD analysis workflows</li>
+        <li><strong>Building</strong> — prototyping and refining trading tools</li>
+        <li><strong>Process</strong> — testing ideas and learning from each iteration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>✦ MARKET CHART STUDY</h3>
+      <p>A neon candlestick visual for the trading theme. The chart is illustrative and does not show live prices.</p>
+      <img src="./assets/market-study.svg" alt="Illustrative neon XAU/USD candlestick chart, not live data" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## ✦ GITHUB STATS
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=than-tw1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=22D3EE&text_color=C9D1D9&ring_color=E879F9" alt="GitHub stats for than-tw1" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=than-tw1&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" alt="Most used languages for than-tw1" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=than-tw1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=22D3EE&text_color=C9D1D9&ring_color=E879F9" alt="GitHub stats for than-tw1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=than-tw1&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9" alt="Most used languages for than-tw1" />
-
-</div>
-
-## ✦ BUILD WITH DISCIPLINE
-
-- Keep learning and document the process.
-- Test ideas carefully before relying on them.
-- Treat risk management as part of every trading tool.
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>LEARN</strong><br/>Keep learning and document the process.</td>
+    <td width="33%" align="center"><strong>TEST</strong><br/>Check ideas carefully before relying on them.</td>
+    <td width="33%" align="center"><strong>MANAGE RISK</strong><br/>Make risk awareness part of every tool.</td>
+  </tr>
+</table>
 
 <div align="center">
 
